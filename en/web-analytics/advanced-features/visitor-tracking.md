@@ -73,6 +73,8 @@ aa("set","visitor.lastname","Durand");
 |yournote| custom note about the user
 |yoururl| custom lin related to the visitor
 |followlist| list(s) attached to the user. This can be the numeric identifier of the list, or the name of the list. If there are multiple lists, they must be separated by a comma. You can create the lists, or find their identifier displayed in the visitor profile box
+|addtolist| Set to "yes" if followlist value should be added to previous lists, or to "no" if it should replace them. Default value: "no".
+
 
 ## Sending data 
 The data transmission is done with the ==send== command. Once the data sent, all field values are reseted. 

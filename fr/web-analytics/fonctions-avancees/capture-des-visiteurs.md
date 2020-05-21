@@ -72,7 +72,7 @@ aa("set","visitor.lastname","Durand");
 |yournote| Vos remarques sur le visiteur.
 |yoururl| Le lien pour l’identifiant que vous avez fourni "yourid".
 |followlist| Liste(s) à attacher à l’utilisateur. Cela peut être l’identifiant numérique des listes, ou le nom des listes. S’il y a plusieurs listes, elles doivent être séparées par une virgule. Vous pouvez créer les listes, ou noter leur identifiant en cliquant sur  lorsque le profil d’un visiteur est affiché. 
-
+|addtolist| Indique si followlist est un ajout aux listes déja existantes (valeur = "yes") ou doit remplacer les listes existantes (valeur = "no"). Valeur par défault: "no".
 
 
 
@@ -107,7 +107,7 @@ aa("send","visitor");
 ```
 
 ### Authentification des utilisateurs
-Exception: quand un utilisateur de connecte, la commande Send visitor 
+Exception: quand un utilisateur se connecte, la commande Send visitor 
 n’est pas obligatoire après la définition de la variable *logged* (visitor.logged), 
 si celle-ci est définit avant la ligne envoyant les données de la page. 
 

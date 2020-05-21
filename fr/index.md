@@ -2,7 +2,7 @@ lng: fr
 hero: AFS Analytics Guide du Développeur
 title: AFS Analytics Guide du Développeur
 description: AFS Analytics Guide du Développeur
-
+date: 2020-05-21
 
 
 
