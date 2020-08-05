@@ -56,7 +56,7 @@ aa("set","visitor.lastname","Durand");
 |displayedname| name to display on the visitor list. By default, the username is displayed
 |role| user role as a string ( for example: administrator, member, etc.) It's up to you to define it
 |firstname| user first name
-|listname| user last name
+|lastname| user last name
 |company| company name
 |address| address line 1
 |addressplus| address line 2

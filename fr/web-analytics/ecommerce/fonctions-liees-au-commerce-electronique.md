@@ -3,6 +3,11 @@ hero: Les fonctions liées au commerce électronique
 title: Les fonctions liées au commerce électronique
 description: Comment utiliser les différentes fonctions liées au commerce électronique. 
 
+
+!!! warning
+    Cette section est uniquement conservé à titre de référence. Si vous désirez implémenter le suivi des transactions E-Commerce sur votre site internet veuillez vous référer à la section [E-Commerce Amélioré](../ecommerce_ameliore/)
+
+
 #Implémenter les fonctions liées au eCommerce
 
 AFS Analytics offre de nombreuses fonctionnalités facilitant le suivi des sites d’E-Commerce. 

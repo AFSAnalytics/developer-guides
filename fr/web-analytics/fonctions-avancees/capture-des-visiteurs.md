@@ -55,7 +55,7 @@ aa("set","visitor.lastname","Durand");
 |displayedname| Le nom à afficher sur la liste des visiteurs. Par défaut c’est l’username qui est affiché.
 |role| La fonction ou le rôle de l’utilisateur. C’est une chaine de caractère. Exemple administrateur, membre, etc. A vous de le définir.
 |firstname| Le prénom de l’utilisateur.
-|listname| Le nom de famille.
+|lastname| Le nom de famille.
 |company| Le nom de la société.
 |address| Numéro et nom de la rue.
 |addressplus| Adresse ligne 2.

@@ -351,7 +351,7 @@ Veuillez consulter le guide [Comment mesurer le trafic des campagnes publicitair
 ##Les événements liés à l’e-commerce.
 
 La capture des ventes et des transactions liées à l’e-commerce sont décrites dans le guide 
-[Capture des ventes et E-commerce](../fonctions-liees-au-commerce-electronique/)
+[Capture des ventes et E-commerce](../../ecommerce/ecommerce_ameliore/)
 
 
 Les options prédéfinies acceptées par AFS Analytics.
